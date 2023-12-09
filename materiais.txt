@@ -1,0 +1,5 @@
+PowerPoint
+Visual Studio Code
+Arquivos de Instalação
+Git Bash
+Manual de utilização
